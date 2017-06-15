@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mortenanders/editorlabs.sandbox.node#readme",
   "dependencies": {
+    "async": "^2.4.1",
     "request": "^2.81.0",
     "unfluff": "^1.1.0"
   }
