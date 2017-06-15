@@ -1,0 +1,23 @@
+{
+  "name": "editorlabs.sandbox.node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortenanders/editorlabs.sandbox.node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortenanders/editorlabs.sandbox.node/issues"
+  },
+  "homepage": "https://github.com/mortenanders/editorlabs.sandbox.node#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "unfluff": "^1.1.0"
+  }
+}
